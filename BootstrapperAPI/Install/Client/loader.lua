@@ -1,0 +1,1 @@
+ wait(); dofile("http://gblx08.lol/BootstrapperAPI/GetJoinScript.php?token=lIRsoYSdzg&gameId=1")

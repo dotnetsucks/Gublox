@@ -1,0 +1,1 @@
+dofile("http://gblx08.lol//Game/JoinScript.php")
